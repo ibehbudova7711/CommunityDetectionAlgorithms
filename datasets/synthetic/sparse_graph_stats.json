@@ -1,0 +1,134 @@
+[
+  {
+    "nodes": 1000,
+    "edges": 5290,
+    "density": 0.01059059059059059,
+    "sparsity_percent": 98.94094094094095,
+    "avg_degree": 10.58,
+    "communities": 5,
+    "sparsity_level": "very_sparse",
+    "within_prob": 0.05,
+    "between_prob": 0.001
+  },
+  {
+    "nodes": 5000,
+    "edges": 135071,
+    "density": 0.010807841568313662,
+    "sparsity_percent": 98.91921584316863,
+    "avg_degree": 54.0284,
+    "communities": 5,
+    "sparsity_level": "very_sparse",
+    "within_prob": 0.05,
+    "between_prob": 0.001
+  },
+  {
+    "nodes": 10000,
+    "edges": 540308,
+    "density": 0.010807240724072407,
+    "sparsity_percent": 98.91927592759276,
+    "avg_degree": 108.0616,
+    "communities": 5,
+    "sparsity_level": "very_sparse",
+    "within_prob": 0.05,
+    "between_prob": 0.001
+  },
+  {
+    "nodes": 20000,
+    "edges": 2162477,
+    "density": 0.010812925646282315,
+    "sparsity_percent": 98.91870743537177,
+    "avg_degree": 216.2477,
+    "communities": 5,
+    "sparsity_level": "very_sparse",
+    "within_prob": 0.05,
+    "between_prob": 0.001
+  },
+  {
+    "nodes": 1000,
+    "edges": 11750,
+    "density": 0.023523523523523524,
+    "sparsity_percent": 97.64764764764764,
+    "avg_degree": 23.5,
+    "communities": 5,
+    "sparsity_level": "sparse",
+    "within_prob": 0.1,
+    "between_prob": 0.005
+  },
+  {
+    "nodes": 5000,
+    "edges": 299527,
+    "density": 0.023966953390678135,
+    "sparsity_percent": 97.60330466093218,
+    "avg_degree": 119.8108,
+    "communities": 5,
+    "sparsity_level": "sparse",
+    "within_prob": 0.1,
+    "between_prob": 0.005
+  },
+  {
+    "nodes": 10000,
+    "edges": 1199580,
+    "density": 0.023993999399939993,
+    "sparsity_percent": 97.600600060006,
+    "avg_degree": 239.916,
+    "communities": 5,
+    "sparsity_level": "sparse",
+    "within_prob": 0.1,
+    "between_prob": 0.005
+  },
+  {
+    "nodes": 20000,
+    "edges": 4801381,
+    "density": 0.024008105405270264,
+    "sparsity_percent": 97.59918945947297,
+    "avg_degree": 480.1381,
+    "communities": 5,
+    "sparsity_level": "sparse",
+    "within_prob": 0.1,
+    "between_prob": 0.005
+  },
+  {
+    "nodes": 1000,
+    "edges": 24061,
+    "density": 0.04817017017017017,
+    "sparsity_percent": 95.18298298298298,
+    "avg_degree": 48.122,
+    "communities": 5,
+    "sparsity_level": "moderately_sparse",
+    "within_prob": 0.2,
+    "between_prob": 0.01
+  },
+  {
+    "nodes": 5000,
+    "edges": 598994,
+    "density": 0.04792910582116423,
+    "sparsity_percent": 95.20708941788358,
+    "avg_degree": 239.5976,
+    "communities": 5,
+    "sparsity_level": "moderately_sparse",
+    "within_prob": 0.2,
+    "between_prob": 0.01
+  },
+  {
+    "nodes": 10000,
+    "edges": 2402787,
+    "density": 0.048060546054605455,
+    "sparsity_percent": 95.19394539453945,
+    "avg_degree": 480.5574,
+    "communities": 5,
+    "sparsity_level": "moderately_sparse",
+    "within_prob": 0.2,
+    "between_prob": 0.01
+  },
+  {
+    "nodes": 20000,
+    "edges": 9596023,
+    "density": 0.04798251412570628,
+    "sparsity_percent": 95.20174858742938,
+    "avg_degree": 959.6023,
+    "communities": 5,
+    "sparsity_level": "moderately_sparse",
+    "within_prob": 0.2,
+    "between_prob": 0.01
+  }
+]
