@@ -1,0 +1,7 @@
+ig_env/
+__pycache__/
+*.pkl
+datasets/
+results/
+*.tmp
+~*
