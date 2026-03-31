@@ -39,6 +39,7 @@ def test_single_graph(args):
             'execution_time': louvain_result['execution_time'],
             'modularity': louvain_result['modularity'],
             'num_communities': louvain_result['num_communities']
+            'cpu_percent': cpu_usage
         })
         print(f"   ✅ Louvain done for {size}")
     except Exception as e:
@@ -57,6 +58,7 @@ def test_single_graph(args):
             'execution_time': spectral_result['execution_time'],
             'modularity': spectral_result['modularity'],
             'num_communities': spectral_result['num_communities']
+            'cpu_percent': cpu_usage
         })
         print(f"   ✅ Spectral done for {size}")
     except Exception as e:
@@ -77,6 +79,7 @@ def test_single_graph(args):
                 'execution_time': gn_result['execution_time'],
                 'modularity': gn_result['modularity'],
                 'num_communities': gn_result['num_communities']
+                'cpu_percent': cpu_usage
             })
             print(f"   ✅ Girvan-Newman done for {size}")
         except Exception as e:
