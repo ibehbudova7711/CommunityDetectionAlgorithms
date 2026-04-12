@@ -1,0 +1,13 @@
+graph_type,graph_size,sparsity,algorithm,execution_time,num_communities,cpu_percent,memory_usage
+synthetic,1000,very_sparse,Girvan-Newman-GPU,4780.21,5,99.8,52
+synthetic,1000,sparse,Girvan-Newman-GPU,6227.45,5,99.5,60
+synthetic,1000,moderately_sparse,Girvan-Newman-GPU,7893.62,5,99.2,68
+synthetic,5000,very_sparse,Girvan-Newman-GPU,18234.78,5,99,70
+synthetic,5000,sparse,Girvan-Newman-GPU,23789.56,5,98.7,78
+synthetic,5000,moderately_sparse,Girvan-Newman-GPU,29876.43,5,98.5,85
+synthetic,10000,very_sparse,Girvan-Newman-GPU,36455.91,5,98,78
+synthetic,10000,sparse,Girvan-Newman-GPU,47220.37,5,97.8,85
+synthetic,10000,moderately_sparse,Girvan-Newman-GPU,59340.82,5,97.5,92
+synthetic,20000,very_sparse,Girvan-Newman-GPU,72890.66,5,97,85
+synthetic,20000,sparse,Girvan-Newman-GPU,94510.28,5,96.8,92
+synthetic,20000,moderately_sparse,Girvan-Newman-GPU,118765.39,5,96.5,96
